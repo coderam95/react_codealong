@@ -1,0 +1,25 @@
+{
+  "name": "react_codealong",
+  "version": "1.0.0",
+  "description": "Namaste react course by akshay saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderam95/react_codealong.git"
+  },
+  "keywords": [
+    "namaste_react"
+  ],
+  "author": "Hariram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderam95/react_codealong/issues"
+  },
+  "homepage": "https://github.com/coderam95/react_codealong#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
